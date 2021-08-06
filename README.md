@@ -1,4 +1,3 @@
-PHPDocker.io generated environment
 ==================================
 
 # Add to your project #
